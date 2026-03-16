@@ -119,7 +119,7 @@ Binary search is dramatically faster for large arrays — but only once the data
 
 ```
 search-visualizer/
-└── search_visualizer.py    # Single-file application — no dependencies
+└── search_visualizion.py    # Single-file application — no dependencies
 ```
 
 ---
